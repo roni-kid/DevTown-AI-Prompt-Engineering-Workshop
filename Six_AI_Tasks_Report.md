@@ -35,7 +35,7 @@ Claude (Anthropic) — used for all six tasks below.
 - Slide 9: Challenges Faced — calibration, noise handling
 - Slide 10: Demo & Results — live demo, GitHub repo link
 
-![Task 1 Screenshot](images/image1.png)
+![Task 1 Screenshot](Screenshot 2026-07-21 100554.png)
 
 ---
 
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     print(result)
 ```
 
-![Task 2 Screenshot](images/image2.png)
+![Task 2 Screenshot](Screenshot 2026-07-21 100040.png)
 
 ---
 
@@ -72,7 +72,7 @@ if __name__ == "__main__":
 - **Data privacy** — avoid feeding personal/sensitive data into third-party AI tools without consent
 - **Bias awareness** — test outputs (e.g., an AI resume tool) across diverse inputs to check for skewed recommendations
 
-![Task 3 Screenshot](images/image3.png)
+![Task 3 Screenshot](Screenshot 2026-07-21 100116.png)
 
 ---
 
@@ -86,7 +86,7 @@ Prompt injection is when a user embeds hidden instructions in their input to ove
 - **Input sanitization/delimiting** — clearly separate system instructions from user input so the model treats user text as data, not commands
 - **Least-privilege tool access** — restrict what actions/tools the AI can invoke based on user input, so even a successful injection can't cause damage
 
-![Task 4 Screenshot](images/image4.png)
+![Task 4 Screenshot](Screenshot 2026-07-21 100142.png)
 
 ---
 
@@ -114,7 +114,7 @@ def get_evens(nums):
     return [n for n in nums if n % 2 == 0]
 ```
 
-![Task 6 Screenshot](images/image6.png)
+![Task 6 Screenshot](Screenshot 2026-07-21 100236.png)
 
 ---
 
