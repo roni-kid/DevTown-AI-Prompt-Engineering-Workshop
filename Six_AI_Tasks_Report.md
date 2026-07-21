@@ -127,12 +127,5 @@ def get_evens(nums):
 
 ---
 
-## Submission Checklist
-
-- [x] Cover Page
-- [x] Project Overview
-- [x] AI Tool(s) Used
-- [x] Prompt(s)
-- [x] AI Output
-- [x] 3–5 Screenshots (one per task, six total)
-- [x] Learning Reflection
+### Author
+Aaron Andoh Dadson Baidoo
